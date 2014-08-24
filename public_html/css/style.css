@@ -1,0 +1,41 @@
+body{
+    background-color:#e4e4e4;
+    font-family: verdana;
+    font-size: 15px;
+}
+
+.centered{
+    text-align:center;
+}
+
+.topHeader{
+    font-size:30px;
+    font-weight:bold;
+    
+    color:#ff5656;
+    
+    text-align:center;
+}
+
+.header{
+    font-size:20px;
+    font-weight:bold;
+    
+    color:#2DBD70;
+}
+
+.contentHolder{
+    width:80%;
+    height:auto;
+    
+    padding:10px;
+    margin:20px auto;
+    
+    background-color:white;
+    box-shadow: 5px 5px 5px #888888;
+    
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; /* future proofing */
+    -khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
