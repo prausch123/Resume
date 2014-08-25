@@ -8,6 +8,19 @@ body{
     text-align:center;
 }
 
+.internalContent{
+    text-align:center;
+    
+    margin:20px;
+}
+
+.title{
+    font-size:18px;
+    font-weight:bold;
+    
+    color:#2299a2;
+}
+
 .topHeader{
     font-size:30px;
     font-weight:bold;
